@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="SpotifyStreamer">Spotify Streamer</string>
+    <string name="ScoresApp">Scores App</string>
+    <string name="LibraryApp">Library App</string>
+    <string name="buildItBigger">Build It Bigger</string>
+    <string name="BaconReader">Bacon Reader</string>
+    <string name="Capstone">Capstone, my own App</string>
+    <string name="NanoDegrees">My NanoDegrees Apps!</string>
+    <string name="action_settings">Actions</string>
+</resources>
